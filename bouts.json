@@ -1,0 +1,159 @@
+[
+    {
+        "bout_type": "pool",
+        "score": [
+            5,
+            0
+        ],
+        "touches": [
+            "parry",
+            "parry",
+            "parry",
+            "parry",
+            "parry"
+        ]
+    },
+    {
+        "bout_type": "pool",
+        "score": [
+            5,
+            0
+        ],
+        "touches": [
+            "parry",
+            "parry",
+            "parry",
+            "parry",
+            "parry"
+        ]
+    },
+    {
+        "bout_type": "pool",
+        "score": [
+            5,
+            0
+        ],
+        "touches": [
+            "parry",
+            "parry",
+            "parry",
+            "parry",
+            "parry"
+        ]
+    },
+    {
+        "bout_type": "pool",
+        "score": [
+            5,
+            0
+        ],
+        "touches": [
+            "parry_me",
+            "parry_opp",
+            "parry_me",
+            "parry_me",
+            "parry_opp"
+        ]
+    },
+    {
+        "bout_type": "pool",
+        "score": [
+            5,
+            0
+        ],
+        "touches": [
+            "parry_me",
+            "parry_me",
+            "parry_me",
+            "parry_opp",
+            "parry_opp"
+        ]
+    },
+    {
+        "bout_type": "pool",
+        "score": [
+            5,
+            0
+        ],
+        "touches": [
+            "parry_opp",
+            "parry_opp",
+            "parry_opp",
+            "attack_me",
+            "attack_me"
+        ]
+    },
+    {
+        "bout_type": "pool",
+        "score": [
+            5,
+            1
+        ],
+        "touches": [
+            "parry_me",
+            "parry_me",
+            "attack_me",
+            "attack_me",
+            "counter_opp",
+            "parry_me"
+        ]
+    },
+    {
+        "bout_type": "pool",
+        "score": [
+            5,
+            0
+        ],
+        "touches": [
+            "parry_me",
+            "parry_me",
+            "parry_opp",
+            "parry_opp",
+            "parry_me"
+        ]
+    },
+    {
+        "bout_type": "pool",
+        "score": [
+            5,
+            0
+        ],
+        "touches": [
+            "parry_me",
+            "parry_opp",
+            "parry_me",
+            "parry_opp",
+            "parry_me"
+        ]
+    },
+    {
+        "bout_type": "pool",
+        "score": [
+            5,
+            1
+        ],
+        "touches": [
+            "parry_me",
+            "parry_opp",
+            "parry_me",
+            "attack_me",
+            "attack_me",
+            "counter_me"
+        ]
+    },
+    {
+        "bout_type": "pool",
+        "score": [
+            5,
+            1
+        ],
+        "touches": [
+            "parry_me",
+            "remise_opp",
+            "counter_me",
+            "counter_me",
+            "attack_me",
+            "parry_me"
+        ]
+    }
+]
